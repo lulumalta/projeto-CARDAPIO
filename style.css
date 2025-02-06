@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(186, 230, 120);
+
+
+}
+header img{ 
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid rgb(56, 4, 160);}
+    .center{
+        text-align:center;
+    }
